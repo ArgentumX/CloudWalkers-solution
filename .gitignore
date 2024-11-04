@@ -1,7 +1,5 @@
-./test
-./train
-
-
+/train
+/test
 
 
 # Byte-compiled / optimized / DLL files
